@@ -61,6 +61,4 @@ Se selecciona un idioma.
 
 Se muestran los libros registrados en la base de datos escritos en el idioma seleccionado.
 
-![image](https://github.com/raul-hdz-garcia/challenge-gutendex-menu/assets/157054531/fcc0e4c9-db81-44c1-b50d-43f3e7560698)
-
 
